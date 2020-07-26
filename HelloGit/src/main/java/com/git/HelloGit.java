@@ -12,6 +12,7 @@ public class HelloGit {
             list.add(i);
         }
         list.forEach(System.out::println);
+        System.out.println("create fen");
     }
 }
 
