@@ -13,6 +13,7 @@ public class HelloGit {
         }
         list.forEach(System.out::println);
         System.out.println("create fen");
+        System.out.println("create 分支");
     }
 }
 
