@@ -14,3 +14,7 @@ public class HelloGit {
         list.forEach(System.out::println);
     }
 }
+
+class Animal {
+    private String name;
+}
